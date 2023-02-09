@@ -1,6 +1,6 @@
-# 경아
+# 경아 :)
 
-프론트엔드!!!!
+```FRONTEND DEVELOPER```
 
 [![얘야 인생이란](http://img.youtube.com/vi/3JvPUzfhq6A/1.jpg)](http://www.youtube.com/watch?v=3JvPUzfhq6A "얘야 인생이란")
 

@@ -1,5 +1,5 @@
 
-<a href="https://instagram.com/leeeedg_">
+<a href="https://blog.naver.com/lee7198">
     <img 
         src="http://img.shields.io/badge/-Naver_Blog-333?style=flat&logo=naver&logoColor=white&logoWidth=20&labelColor"/>
 </a>
@@ -7,7 +7,7 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-333?style=flat&logo=Instagram&logoColor=white&logoWidth=20"/>
 </a>
-<a href="https://instagram.com/leeeedg_">
+<a href="https://velog.io/@lee7198">
     <img 
         src="http://img.shields.io/badge/-Velog-333?style=flat&logo=velog&logoColor=white&logoWidth=20"/>
 </a>

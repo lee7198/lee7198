@@ -13,7 +13,7 @@
 </a>
 
 ## **소개**
-- **이름** : 이도경 / Lee Do-Gyeong'
+- **이름** : 이도경 / Lee Do-Gyeong
 - **이메일** : lee7198@naver.com
 
 <div style="display: flex;">

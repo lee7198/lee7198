@@ -1,12 +1,3 @@
-
-<a href="https://blog.naver.com/lee7198">
-    <img 
-        src="http://img.shields.io/badge/-Naver_Blog-333?style=flat&logo=naver&logoColor=white&logoWidth=20&labelColor"/>
-</a>
-<a href="https://instagram.com/leeeedg_">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-333?style=flat&logo=Instagram&logoColor=white&logoWidth=20"/>
-</a>
 <a href="https://velog.io/@lee7198">
     <img 
         src="http://img.shields.io/badge/-Velog-333?style=flat&logo=velog&logoColor=white&logoWidth=20"/>
@@ -31,10 +22,6 @@
 ## **🌱 Project**
 - 굉장해 엄청나(익명 칭찬 SNS)
 - 우연한 발견(위치기반 익명 SNS)
-
-## **📖 Careers**
-- 🎓 계명대학교 컴퓨터공학과 졸업예정(2023.02)
-
 
 ## **🌏 Technology Stack**
 <div>

@@ -23,3 +23,4 @@
 ## **🔥 Activities**
 - 🚙 첨단분야 혁신융합대학 (COSS) 미래자동차 서포터즈
 - ☁️ 7th 9oormthon in JEJU 대상 (카카오대표이사상)
+- 🦁 23 멋쟁이사자처럼 대구 경북 Feaverthon 우수상

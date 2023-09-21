@@ -17,9 +17,9 @@
 </div>
 
 ## **🌱 Projects**
-- 굉장해 엄청나 (익명 칭찬 SNS)
-- 우연한 발견 (위치기반 익명 SNS)
-- JIGUME (택배비 분할 플랫폼)
+- [굉장해 엄청나 (익명 칭찬 SNS)](https://www.awesomegreat.kro.kr/)
+- [우연한 발견 (위치기반 익명 SNS)](https://github.com/wooyeonhan-inyeons)
+- [JIGUME (택배비 분할 플랫폼)](https://github.com/jigume)
 
 ## **🔥 Activities**
 - 🚙 첨단분야 혁신융합대학 (COSS) 미래자동차 서포터즈

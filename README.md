@@ -1,5 +1,3 @@
-## Front End Developer
-
 - 이도경 / lee7198@naver.com
 - [개발 블로그](https://velog.io/@lee7198)
 

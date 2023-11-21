@@ -17,6 +17,7 @@
 ## **Projects**
 - [🍀 우연한 발견 (위치기반 익명 SNS)](https://github.com/wooyeonhan-inyeons)
 - [☁️ JIGUME (택배비 분할 플랫폼)](https://github.com/jigume)
+- [🚙 산학프로젝트 (차종 분류 모델)](https://github.com/lee7198/industryClient)
 
 ## **Activities**
 - 🍊 7th 9oormthon in JEJU 대상 (카카오대표이사상) - (23.09)
